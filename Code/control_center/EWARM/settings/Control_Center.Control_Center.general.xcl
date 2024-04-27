@@ -1,0 +1,15 @@
+"D:\autosar\IAR\arm\bin\armproc.dll" 
+
+"D:\autosar\IAR\arm\bin\armstlink2.dll" 
+
+"D:\GitHub\a_zero\Embedded\Code\EWARM\Control_Center\Exe\Control_Center.out" 
+
+--plugin="D:\autosar\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\autosar\IAR\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="D:\autosar\IAR\arm\config\flashloader\ST\FlashSTM32F427xI.board" 
+
+
+
+
